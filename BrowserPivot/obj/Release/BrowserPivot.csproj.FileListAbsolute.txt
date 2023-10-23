@@ -1,0 +1,12 @@
+C:\Users\rootrain\source\repos\BrowserPivot\BrowserPivot\obj\Release\BrowserPivot.csproj.CoreCompileInputs.cache
+C:\Users\rootrain\source\repos\BrowserPivot\BrowserPivot\bin\Release\BrowserPivot.exe
+C:\Users\rootrain\source\repos\BrowserPivot\BrowserPivot\obj\Release\BrowserPivot.exe
+C:\Users\rootrain\source\repos\BrowserPivot\BrowserPivot\bin\Release\System.IO.Compression.FileSystem.dll
+C:\Users\rootrain\source\repos\BrowserPivot\BrowserPivot\bin\Release\System.IO.Compression.dll
+C:\Users\rootrain\source\repos\BrowserPivot\BrowserPivot\bin\Release\zh-Hans\System.IO.Compression.FileSystem.resources.dll
+C:\Users\rootrain\source\repos\BrowserPivot\BrowserPivot\bin\Release\zh-Hans\System.IO.Compression.resources.dll
+C:\Users\rootrain\source\repos\BrowserPivot\BrowserPivot\obj\Release\BrowserPivot.csproj.CopyComplete
+C:\Users\rootrain\source\repos\BrowserPivot\BrowserPivot\bin\Release\CommandLine.dll
+C:\Users\rootrain\source\repos\BrowserPivot\BrowserPivot\bin\Release\CommandLine.xml
+C:\Users\rootrain\source\repos\BrowserPivot\BrowserPivot\bin\Release\Newtonsoft.Json.dll
+C:\Users\rootrain\source\repos\BrowserPivot\BrowserPivot\bin\Release\Newtonsoft.Json.xml

@@ -1,0 +1,7 @@
+C:\Users\rootrain\source\repos\BrowserPivot\BrowserPivot\bin\Debug\BrowserPivot.exe
+C:\Users\rootrain\source\repos\BrowserPivot\BrowserPivot\bin\Debug\BrowserPivot.pdb
+C:\Users\rootrain\source\repos\BrowserPivot\BrowserPivot\obj\Debug\BrowserPivot.csproj.CoreCompileInputs.cache
+C:\Users\rootrain\source\repos\BrowserPivot\BrowserPivot\obj\Debug\BrowserPivot.csproj.CopyComplete
+C:\Users\rootrain\source\repos\BrowserPivot\BrowserPivot\obj\Debug\BrowserPivot.exe
+C:\Users\rootrain\source\repos\BrowserPivot\BrowserPivot\obj\Debug\BrowserPivot.pdb
+C:\Users\rootrain\source\repos\BrowserPivot\BrowserPivot\obj\Debug\BrowserPivot.csproj.AssemblyReference.cache
