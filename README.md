@@ -10,6 +10,24 @@ BrowserPivot是一个基于卷影复制和浏览器调试模式功能以达到�
 # 使用方法
 
 ```
+BrowserPivot 1.0.0.0
+Copyright ?  2023
+
+ERROR(S):
+  Required option 'p, pid' is missing.
+  Required option 'l, port' is missing.
+  Required option 'b, browser' is missing.
+
+  -p, --pid        Required. Process ID.
+
+  -l, --port       Required. Local port.
+
+  -b, --browser    Required. Browser (chrome or msedge).
+
+  --help           Display this help screen.
+
+  --version        Display version information.
+
 -p 需要模拟的进程PID，通常为要访问的资源用户PID
 -l 启动非占用本地端口
 -b 请选择chrome或者msedge，其他选择请自行修改代码
